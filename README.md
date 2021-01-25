@@ -21,12 +21,12 @@ The game is still not perfect, known issues:
 INSTRUCTIONS:
 
 Screen menu:
-  press S to see the high scores
-  press I to see the game instructions
-  press Enter to start the game
+- press S to see the high scores
+- press I to see the game instructions
+- press Enter to start the game
 
 While playing:
-  move with left - right arrows
-  hit space to launch the ball
-  press P to pause the game, Enter to unpause
-  press M to mute the music, N to unmute
+- move the platform with left - right arrows
+- hit space to launch the ball
+- press P to pause the game, Enter to unpause
+- press M to mute the music, N to unmute
